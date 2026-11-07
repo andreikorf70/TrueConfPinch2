@@ -1,0 +1,6 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrueConfPinch 2.0</string>
+    <string name="accessibility_description">Поиск участника и управление увеличением видео в TrueConf</string>
+</resources>
