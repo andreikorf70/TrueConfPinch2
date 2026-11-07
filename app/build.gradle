@@ -1,0 +1,7 @@
+plugins { id 'com.android.application' }
+android {
+ namespace 'local.trueconf.pinch'
+ compileSdk 35
+ defaultConfig { applicationId 'local.trueconf.pinch'; minSdk 24; targetSdk 35; versionCode 1; versionName '1.0-test' }
+ compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
+}
